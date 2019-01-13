@@ -20,3 +20,4 @@ Este projeto é uma prova de conceito para utilização e criação de testes de
 ### Para mais informações ###
 
 * https://gist.github.com/diyan/5763644
+* https://cleitonbueno.com/python-meu-primeiro-programa-em-python/
