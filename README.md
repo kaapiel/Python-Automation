@@ -16,3 +16,7 @@ Este projeto é uma prova de conceito para utilização e criação de testes de
 * Instalação do Python
 * Conhecimentos em Selenium
 * Bla bla bla
+
+### Para mais informações ###
+
+* https://gist.github.com/diyan/5763644
