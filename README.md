@@ -21,3 +21,4 @@ Este projeto é uma prova de conceito para utilização e criação de testes de
 
 * https://gist.github.com/diyan/5763644
 * https://cleitonbueno.com/python-meu-primeiro-programa-em-python/
+* https://github.com/atodorov/qa-automation-python-selenium-101
