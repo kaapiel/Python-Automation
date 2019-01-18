@@ -22,3 +22,9 @@ Este projeto é uma prova de conceito para utilização e criação de testes de
 * https://gist.github.com/diyan/5763644
 * https://cleitonbueno.com/python-meu-primeiro-programa-em-python/
 * https://github.com/atodorov/qa-automation-python-selenium-101
+
+### Comandos importantes ###
+
+* python -m unittest test_module1 test_module2
+* python -m unittest test_module.TestClass
+* python -m unittest test_module.TestClass.test_method
