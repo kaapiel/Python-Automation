@@ -11,6 +11,7 @@ class Test(unittest.TestCase):
         pass
 
     def test_open_browser(self):
+        assert True
         pass
 
     def tearDown(self):
