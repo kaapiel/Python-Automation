@@ -1,5 +1,4 @@
 import unittest
-from br.com.framework.testing import *
 from selenium import webdriver
 
 
