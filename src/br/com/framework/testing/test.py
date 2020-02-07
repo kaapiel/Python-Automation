@@ -1,5 +1,5 @@
 import unittest
-from src.br.com.framework.testing import *
+from br.com.framework.testing import *
 from selenium import webdriver
 
 
