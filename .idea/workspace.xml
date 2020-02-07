@@ -33,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -65,9 +66,9 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="413" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1581089405734" />
-    <state x="450" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581091148118">
+    <state x="450" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581091235148">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="450" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.797@0.23.1440.797" timestamp="1581091148118" />
+    <state x="450" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.797@0.23.1440.797" timestamp="1581091235148" />
   </component>
 </project>
