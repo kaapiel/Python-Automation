@@ -41,7 +41,8 @@ jobs:
       - store_artifacts:
           path: test-reports
           destination: test-reports
-
+          
+      - sonarcloud/scan
 orbs:
   sonarcloud: sonarsource/sonarcloud@1.0.1
 
