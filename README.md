@@ -8,7 +8,7 @@
 ![CircleCI](https://img.shields.io/circleci/build/github/kaapiel/Python-Automation/master)
 [![API](https://img.shields.io/badge/API-26%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=26)
 
-# Python Automation Java
+# Python Automation
 A powerful & easy to use Test Automation Framework
 
 ## Table of Contents
