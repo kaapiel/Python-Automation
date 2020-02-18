@@ -1,6 +1,12 @@
 # Python Automation
 A powerful & easy to use Test Automation Framework
 
+### To access SonarCloud data use this link: 
+#### https://sonarcloud.io/dashboard?id=kaapiel_Python-Automation
+
+### To access pipeline and CI data use this link: 
+#### https://circleci.com/gh/kaapiel/Python-Automation
+
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=kaapiel_Python-Automation&metric=alert_status)](https://sonarcloud.io/dashboard?id=kaapiel_Python-Automation)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=kaapiel_Python-Automation&metric=ncloc)](https://sonarcloud.io/dashboard?id=kaapiel_Python-Automation)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=kaapiel_Python-Automation&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=kaapiel_Python-Automation)
